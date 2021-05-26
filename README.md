@@ -1,5 +1,5 @@
 # frontend-mentor-ex1
-FrontEnd Master Challenge 1
+FrontEnd Mentor Challenge 1
 
 <div align="center">
   <h1>Front-End Mentor Challange No: 1</h1>
